@@ -1,6 +1,6 @@
 package Lesson02;
 
-public class SayiTemkiCiftmi01 {
+public class A01_SayiTemkiCiftmi01 {
 
     public static void main(String[] args) {
 

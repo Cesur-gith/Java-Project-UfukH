@@ -1,7 +1,7 @@
 
 package Lesson02;
 
-public class SayiTekmiCiftmi {
+public class A01_SayiTekmiCiftmi {
 
     // sayi tekmi ciftmi kontrol edelim
     public static void main(String[] args) {

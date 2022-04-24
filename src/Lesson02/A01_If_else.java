@@ -1,6 +1,6 @@
 package Lesson02;
 
-public class If_else {
+public class A01_If_else {
 
     public static void main(String[] args) {
 

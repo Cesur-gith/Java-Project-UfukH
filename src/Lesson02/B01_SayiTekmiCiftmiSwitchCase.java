@@ -1,6 +1,6 @@
 package Lesson02;
 
-public class SayiTekmiCiftmiSwitchCase {
+public class B01_SayiTekmiCiftmiSwitchCase {
 
 
     public static void main(String[] args) {
