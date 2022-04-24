@@ -12,6 +12,10 @@ public class UygulamaIki {
         int toplam = s1 + s2;
         System.out.println("toplam: " + toplam);
 
+        int a, b = 6;
+        System.out.println("s1 + b = " + s1 + b);
+        System.out.println("s1 + b = " + (s1 + b));
+
 
 
     }
