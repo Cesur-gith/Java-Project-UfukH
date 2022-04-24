@@ -1,3 +1,5 @@
+package Lesson01;
+
 public class UygulamaUc {
 
     public static void main(String[] args) {
