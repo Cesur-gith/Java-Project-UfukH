@@ -1,6 +1,6 @@
-package Lesson02;
+package Lesson02_If_else;
 
-public class B01_BasamaklariniBulmak {
+public class C01_BasamaklariniBulmak {
 
     public static void main(String[] args) {
         int sayi = 432;

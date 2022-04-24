@@ -1,4 +1,4 @@
-package Lesson02;
+package Lesson02_If_else;
 
 public class B01_SayiTekmiCiftmiSwitchCase {
 
